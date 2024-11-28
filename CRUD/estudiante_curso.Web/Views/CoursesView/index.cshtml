@@ -1,0 +1,31 @@
+@model IEnumerable<estudiante_curso.Domain.Course>
+
+<h2>Courses</h2>
+
+<a href="@Url.Action("Create", "Course")" class="btn btn-primary">Create New Course</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.id</td>
+                <td>@course.name</td>
+                <td>@course.description</td>
+                <td>
+                    <a href="@Url.Action("Details", "Course", new { id = course.id })">Details</a> |
+                    <a href="@Url.Action("Edit", "Course", new { id = course.id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Course", new { id = course.id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

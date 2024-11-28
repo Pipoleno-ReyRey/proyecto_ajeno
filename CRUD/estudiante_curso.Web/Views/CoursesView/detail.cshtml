@@ -1,0 +1,15 @@
+@model estudiante_curso.Domain.Course
+
+<h2>Course Details</h2>
+
+<div>
+    <strong>ID:</strong> @Model.id
+</div>
+<div>
+    <strong>Name:</strong> @Model.name
+</div>
+<div>
+    <strong>Description:</strong> @Model.description
+</div>
+
+<a href="@Url.Action("Index", "Course")">Back to Courses</a>

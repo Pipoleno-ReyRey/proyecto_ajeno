@@ -1,0 +1,21 @@
+@model estudiante_curso.Domain.Student
+
+<h2>Student Details</h2>
+
+<div>
+    <strong>ID:</strong> @Model.id
+</div>
+<div>
+    <strong>Name:</strong> @Model.name
+</div>
+<div>
+    <strong>Email:</strong> @Model.email
+</div>
+<div>
+    <strong>Address:</strong> @Model.phone
+</div>
+<div>
+    <strong>Phone:</strong> @Model.courseId
+</div>
+
+<a href="@Url.Action("Index", "Student")">Back to Students</a>

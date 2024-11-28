@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = estudiante_curso.Web
+build_property.RootNamespace = estudiante_curso.Web
+build_property.ProjectDir = D:\proyectosAjenos\CRUD\estudiante_curso.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\proyectosAjenos\CRUD\estudiante_curso.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/CoursesView/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1ZpZXdcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/CoursesView/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1ZpZXdcZGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/CoursesView/detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1ZpZXdcZGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/CoursesView/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1ZpZXdcZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/CoursesView/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1ZpZXdcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/StudentsView/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNWaWV3XGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/StudentsView/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNWaWV3XGRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/StudentsView/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNWaWV3XGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/StudentsView/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNWaWV3XGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyectosAjenos/CRUD/estudiante_curso.Web/Views/StudentsView/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNWaWV3XGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
