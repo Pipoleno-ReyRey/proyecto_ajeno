@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Web\\transporte-publico.Web.csproj",
+      "projectUniqueName": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Web\\transporte-publico.Web.csproj",
       "projectName": "transporte-publico.Web",
-      "projectPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Web\\transporte-publico.Web.csproj",
+      "projectPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Web\\transporte-publico.Web.csproj",
       "packagesPath": "C:\\Users\\wapo2\\.nuget\\packages\\",
-      "outputPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Web\\obj\\",
+      "outputPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YA0ATy/Q5VI=",
+  "dgSpecHash": "G85jRg5IZb8=",
   "success": true,
-  "projectFilePath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
+  "projectFilePath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wapo2\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\wapo2\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

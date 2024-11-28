@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuTU8zLNjNE=",
+  "dgSpecHash": "j0YVxkvyvzg=",
   "success": true,
-  "projectFilePath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.API\\transporte-publico.API.csproj",
+  "projectFilePath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.API\\transporte-publico.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wapo2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\wapo2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

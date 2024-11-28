@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj": {}
+    "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj": {
+    "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj",
+        "projectUniqueName": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj",
         "projectName": "transporte-publico.Domain",
-        "projectPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj",
+        "projectPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj",
         "packagesPath": "C:\\Users\\wapo2\\.nuget\\packages\\",
-        "outputPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\obj\\",
+        "outputPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj": {
+    "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
+        "projectUniqueName": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
         "projectName": "transporte-publico.Infrastructure",
-        "projectPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
+        "projectPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\transporte-publico.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\wapo2\\.nuget\\packages\\",
-        "outputPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Infrastructure\\obj\\",
+        "outputPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj": {
-                "projectPath": "D:\\proyectosAjenos\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj"
+              "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj": {
+                "projectPath": "D:\\proyecto_ajeno\\transportePublico\\transporte-publico.Domain\\transporte-publico.Domain.csproj"
               }
             }
           }
